@@ -1,6 +1,6 @@
 # Blockgames x Zuri x Nestcoin [Task 2]
 
-This repo contains a simple smart contract titled HelloWorld which demonstrates the use of constructor, state variables and ethereum testnet deployment. Hardhat was used in development of the smart contract. Deployment was done using Rinkeby testnet.
+This repo contains a simple smart contract titled HelloWorld which demonstrates the use of constructor, state variables, functions and ethereum testnet deployment. Hardhat was used in development of the smart contract. Deployment was done using Rinkeby testnet.
 
 ### Contract Address
 

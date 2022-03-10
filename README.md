@@ -4,4 +4,4 @@ This repo contains a simple smart contract titled HelloWorld which demonstrates 
 
 ### Contract Address
 
-[0xB86708C927Dc2110Ddb5f37b21085A58d08C4742](https://rinkeby.etherscan.io/address/0xB86708C927Dc2110Ddb5f37b21085A58d08C4742)
+[https://rinkeby.etherscan.io/address/0xB86708C927Dc2110Ddb5f37b21085A58d08C4742](https://rinkeby.etherscan.io/address/0xB86708C927Dc2110Ddb5f37b21085A58d08C4742)
